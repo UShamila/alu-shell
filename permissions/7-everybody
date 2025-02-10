@@ -1,3 +1,2 @@
 #!/bin/bash
-# Set read and execute permissions for everyone on the file "hello"
-chmod 555 hello
+chmod 751 hello
